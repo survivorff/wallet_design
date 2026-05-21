@@ -6,16 +6,16 @@
 
 ## 文章列表
 
-- [ ] Web3 钱包用户画像：从 Degen 到小白
-- [ ] 用户使用场景分类：交易、DeFi、NFT、社交、GameFi
-- [ ] 用户痛点地图：安全焦虑、Gas 困惑、多链混乱
-- [ ] Onboarding 漏斗分析：用户在哪一步流失
-- [ ] 留存与活跃度：钱包的北极星指标是什么
-- [ ] 用户迁移成本：为什么换钱包这么难
-- [ ] 新用户 vs 老用户：需求差异与产品分层
-- [ ] 地域差异：亚洲 vs 欧美 vs 新兴市场
-- [ ] 机构用户 vs 个人用户：完全不同的需求
-- [ ] 用户教育：钱包如何降低认知门槛
+- [x] [Web3 钱包用户画像：从 Degen 到小白](./01-user-personas.md)
+- [x] [用户使用场景分类：交易、DeFi、NFT、社交、GameFi](./02-use-scenarios.md)
+- [x] [用户痛点地图：安全焦虑、Gas 困惑、多链混乱](./03-pain-points.md)
+- [x] [Onboarding 漏斗分析：用户在哪一步流失](./04-onboarding-funnel.md)
+- [x] [留存与活跃度：钱包的北极星指标是什么](./05-retention-metrics.md)
+- [x] [用户迁移成本：为什么换钱包这么难](./06-switching-cost.md)
+- [x] [新用户 vs 老用户：需求差异与产品分层](./07-new-vs-existing-users.md)
+- [x] [地域差异：亚洲 vs 欧美 vs 新兴市场](./08-regional-differences.md)
+- [x] [机构用户 vs 个人用户：完全不同的需求](./09-institutional-vs-retail.md)
+- [x] [用户教育：钱包如何降低认知门槛](./10-user-education.md)
 
 ## 核心问题
 

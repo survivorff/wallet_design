@@ -6,16 +6,16 @@
 
 ## 文章列表
 
-- [ ] 钱包在 Web3 技术栈中的位置
-- [ ] 钱包与 DApp 的关系：连接协议与标准
-- [ ] 钱包与 DEX/聚合器：内置 Swap 的逻辑
-- [ ] 钱包与跨链桥：资产流动的入口
-- [ ] 钱包与 DID/身份：从地址到身份
-- [ ] 钱包与 Layer2：Rollup 生态的钱包适配
-- [ ] 钱包基础设施提供商：Fireblocks、Dfns、Privy、Dynamic
-- [ ] 嵌入式钱包（Embedded Wallet）：WaaS 赛道
-- [ ] 钱包与合规：KYC/AML 在钱包层的实现
-- [ ] 钱包标准与协议：EIP-1193、EIP-6963、WalletConnect v2
+- [x] [钱包在 Web3 技术栈中的位置](./01-wallet-in-web3-stack.md)
+- [x] [钱包与 DEX/聚合器：内置 Swap 的逻辑](./02-wallet-and-defi.md)
+- [x] [钱包与跨链桥：资产流动的入口](./03-wallet-and-bridges.md)
+- [x] [钱包与 DApp 的关系：连接协议与标准](./04-wallet-and-dapp.md)
+- [x] [钱包与 DID/身份：从地址到身份](./05-wallet-and-did.md)
+- [x] [钱包与 Layer2：Rollup 生态的钱包适配](./06-wallet-and-layer2.md)
+- [x] [钱包基础设施提供商：Fireblocks、Dfns、Privy、Dynamic](./07-wallet-infrastructure.md)
+- [x] [嵌入式钱包（Embedded Wallet）：WaaS 赛道](./08-embedded-wallets.md)
+- [x] [钱包与合规：KYC/AML 在钱包层的实现](./09-wallet-and-compliance.md)
+- [x] [钱包标准与协议：EIP-1193、EIP-6963、WalletConnect v2](./10-wallet-standards.md)
 
 ## 核心问题
 
