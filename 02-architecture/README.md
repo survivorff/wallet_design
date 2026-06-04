@@ -17,6 +17,8 @@
 - [x] [RPC 节点与数据索引：钱包的"眼睛"](./09-rpc-and-indexing.md)
 - [x] [本地存储与加密：Keystore、Secure Enclave、TEE](./10-local-storage-security.md)
 - [x] [自托管的真相：从助记词到 TEE 钱包的架构光谱](./11-self-custody-spectrum.md)
+- [x] [EIP-7702 深度解析：让 EOA 长出合约钱包的能力](./12-eip-7702-deep-dive.md)
+- [x] [模块化账户与近年新玩法：7579、6900、链抽象账户、Smart EOA](./13-modular-accounts-and-new-paradigms.md)
 
 ## 核心问题
 
@@ -25,3 +27,4 @@
 3. 多链支持的技术复杂度在哪里？
 4. 去中心化与用户体验如何平衡？
 5. "自托管"到底意味着什么？邮箱登录钱包算不算自托管？
+6. EIP-7702 和 ERC-4337 是什么关系？模块化账户解决了什么问题？
