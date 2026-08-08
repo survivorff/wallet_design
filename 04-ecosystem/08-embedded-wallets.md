@@ -144,6 +144,11 @@ NFT 票务、忠诚度计划、订阅服务等：
 
 ## 主要产品对比
 
+> 本节是品类层面的速览。具体厂商的技术架构、商业模式和批判性分析，见 [10-providers](../10-providers/)：
+> [Privy](../10-providers/01-privy.md)、[Turnkey](../10-providers/02-turnkey.md)、[Fireblocks EW](../10-providers/03-fireblocks-embedded-wallet.md)、[Crossmint](../10-providers/04-crossmint.md)，以及[架构横向对比](../10-providers/08-architecture-comparison.md)和[定价对比](../10-providers/09-business-model-comparison.md)。
+>
+> 注意：本节部分内容写于 2025 年并购潮之前。Privy 已被 Stripe 收购，Web3Auth 已被 ConsenSys 收购，Dynamic 已被 Fireblocks 收购，最新格局见 [10-providers/00-market-landscape](../10-providers/00-market-landscape.md)。
+
 ### Privy
 
 ```
